@@ -1,4 +1,4 @@
-package week1_weekly_salary_calculation;
+package HW2;
 
 public class HourlyWageCalculations {
 
@@ -18,5 +18,4 @@ public class HourlyWageCalculations {
         }
         return weeklySalary;
     }
-
 }
